@@ -1,0 +1,6 @@
+- name: Basic debug sample
+  hosts: all
+  tasks:
+    - name: First task
+      debug:
+        msg: It's first task ever

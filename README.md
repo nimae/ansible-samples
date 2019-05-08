@@ -1,2 +1,2 @@
-# ansible-samples
+# Ansible samples
 Some Ansible sample playbooks
